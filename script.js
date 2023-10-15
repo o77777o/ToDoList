@@ -7,6 +7,8 @@
  * кнопка       <div class="CreateButton">NEW TASK</div> будет создавать внутри нового листа
  * кнопка, которая редактирует содержимое уже созданной задачи
  * 
+ * 
+ * https://learn.javascript.ru/modifying-document
  */
 
 const CreateNewSection = () => {
